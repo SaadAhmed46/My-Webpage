@@ -12,10 +12,6 @@ This project demonstrates the use of semantic HTML tags, responsive design, and 
 
 ---
 
-## 📸 Preview
-![Preview Screenshot](assets/s1.png)
-
----
 
 ## 🛠 Features
 - **Semantic HTML5 Structure** — Proper use of `<header>`, `<main>`, `<section>`, `<aside>`, `<footer>`, and more.
