@@ -24,6 +24,8 @@ This project demonstrates the use of semantic HTML tags, responsive design, and 
 - **Responsive Styling** — Neatly styled with CSS and a circular profile image.
 
 ---
+
+## 📂 Project Structure
 project-folder/
 │
 ├── index.html # Main HTML file
@@ -34,4 +36,3 @@ project-folder/
 
 
 
-## 📂 Project Structure
